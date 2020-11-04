@@ -88,11 +88,3 @@ print("Big Schools:")
 create_dictionary(schools)
 print("\nBig States:")
 create_dictionary(states)
-    
-
-
-# In[ ]:
-
-
-
-
